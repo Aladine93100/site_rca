@@ -4,9 +4,14 @@ body {
   padding-bottom: 20px;
   margin-left: 100px;
   margin-right: 100px;
-  background-color: #3B3757;
+  background-color: black;
   color: white;
   font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.container {
+  background-color: #3B3757;
+
 }
 
 .jumbotron {
