@@ -1,0 +1,62 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+  background-color: #3B3757;
+  color: white;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.jumbotron {
+	background: url(ban-site-rca.jpg);
+	background-repeat: no-repeat;
+	margin-left: 5px;
+	background-color: rgb(59,55,87);
+	color: black;
+}
+
+.page-header {
+	position: top;
+	background-color: #3B3757;
+	color: white;
+	margin-top: 0px;
+	padding-top: 50px;
+}
+
+.panel-right {
+	color: white;
+	background-color: #645E94;
+	font-size: 20px;
+}
+
+.menu1:hover {
+	background-color: #645E94;
+	font-size: 20px;
+
+}
+
+.menu2:hover {
+	background-color: #645E94;
+	font-size: 20px;
+}
+
+.menu3:hover {
+	background-color: #645E94;
+	font-size: 20px;
+}
+
+
+/* page organisateurs */
+
+.panel-orga {
+	margin-top: 50px;
+	background-color: #645E94;
+}
+
+
+
+/* Page Présentation */
+
+.panel-pres {
+	background-color: #645E94;
+}
